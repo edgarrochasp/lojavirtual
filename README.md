@@ -1,4 +1,4 @@
 # lojavirtual
 
 
-Texto alterado o repoistorio local
+Texto alterado o repoistorio local (2)
